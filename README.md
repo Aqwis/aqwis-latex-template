@@ -1,2 +1,2 @@
-aqwis-latex-template
+latex-template
 ====================
